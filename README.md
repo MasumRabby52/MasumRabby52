@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  JS / HTML / CSS/c/c++/python/java/go
+#Skills:  JS / HTML / CSS/c/c++/python/java/go
 
 - 🔭 I’m currently working on Tuition Media 
 - 🌱 I’m currently learning Competitive programming 
@@ -23,8 +23,4 @@ Skills:  JS / HTML / CSS/c/c++/python/java/go
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MasumRabby52&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MasumRabby52/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/MasumRabby52)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MasumRabby52)  
 
